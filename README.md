@@ -2,6 +2,8 @@
 
 ![VFX Graph change params gradually image 1](VFX_Graph_change_params_gradually_1.png)
 
+## Video of this effect in action (click image to open in Youtube)
+
 [![VFX Graph change params gradually video](https://img.youtube.com/vi/rPvGw7XM1DM/0.jpg)](https://www.youtube.com/watch?v=rPvGw7XM1DM)
 
 Here's a sort of tiny Visual Effect Graph tutorial on how to smoothly change values beyond a set threshold value. This could be done in different dimensions too.
